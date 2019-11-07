@@ -146,7 +146,6 @@ public class ZipArchiveEntry extends java.util.zip.ZipEntry
     private CommentSource commentSource = CommentSource.COMMENT;
     private long diskNumberStart;
 
-
     /**
      * Creates a new zip entry with the specified name.
      *
